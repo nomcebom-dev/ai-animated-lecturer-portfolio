@@ -32,7 +32,7 @@ This project was built using AI-assisted development:
 
 ## 🌍 Live Demo
 
-👉 https://nomcebom-dev.github.io
+👉 https://github.com/nomcebom-dev/ai-animated-lecturer-portfolio
 
 ## 💡 What I Learned
 
