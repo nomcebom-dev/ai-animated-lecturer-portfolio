@@ -91,8 +91,8 @@ If we continue working on this project, we would:
 Nomcebo Mtshali  
 ---
 
-## 📌 Notes
+## Notes
 
 This project is part of my portfolio to show both my technical skills and my ability to work in a team and use tools like AI to improve the final result.
 
-💼 Built as part of an Innovation & Leadership project
+ Built as part of an Innovation & Leadership project
