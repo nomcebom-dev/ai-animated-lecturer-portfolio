@@ -1,52 +1,98 @@
-# 🎓 AI-Assisted Animated Lecturer Portfolio Website
+# AI Assisted Animated Lecturer Portfolio
 
-## 🚀 Project Overview
+This project is an interactive portfolio website developed as part of a group assignment.
 
-This project is a fully animated, responsive lecturer portfolio website built using AI-assisted development tools.
+The idea was to create something more engaging than a standard portfolio by using animations and interactive elements, almost like a lecturer guiding the user through the content step by step.
 
-The goal was to simulate a real-world client project by designing and deploying a professional website for a university lecturer.
-
-## 🧠 Key Features
-
-* ✨ Fully animated UI (scroll animations, hover effects, counters)
-* 🎭 Custom animated avatar interaction
-* 🎯 Responsive design (mobile, tablet, desktop)
-* 🖱️ Custom cursor experience
-* 📊 Interactive statistics and UI cards
-* 📬 Functional contact form (frontend)
-
-## 🛠️ Tech Stack
-
-* HTML5
-* CSS3 (Advanced animations & UI design)
-* JavaScript (DOM manipulation & interactivity)
-* Git & GitHub Pages (Deployment)
-
-## 🤖 AI Integration
-
-This project was built using AI-assisted development:
-
-* Code generation
-* UI/UX structuring
-* Animation logic support
-
-## 🌍 Live Demo
-
-👉 (https://nomcebom-dev.github.io/ai-animated-lecturer-portfolio)
-
-## 💡 What I Learned
-
-* Real-world project structuring
-* Git version control workflow
-* AI-assisted development practices
-* Building responsive animated interfaces
-
-## 📌 Future Improvements
-
-* Backend integration for contact form
-* Dynamic content loading
-* Performance optimization
+Some parts of the project were built with the help of AI tools for ideas and improvements, but the implementation and adjustments were done by the team.
 
 ---
+
+## Team Project
+
+This was a group project where we worked together on the design, layout and functionality of the site.
+
+My main contributions included:
+- Working on the front-end layout and structure  
+- Implementing parts of the JavaScript interactions  
+- Assisting with styling and UI improvements  
+- Testing and fixing bugs  
+
+---
+
+## Project Overview
+
+This is a front-end web application built using HTML, CSS and JavaScript.
+
+The site includes animations, transitions and interactive sections to create a more dynamic user experience.
+
+The focus was on:
+- clean layout  
+- smooth animations  
+- making the content easy to navigate  
+
+---
+
+## Features
+
+- Scroll-based animations and content reveals  
+- Interactive UI elements (hover effects, transitions)  
+- Structured sections (About, Projects, Skills, Contact)  
+- Smooth navigation between sections  
+- Responsive design  
+
+---
+
+## Technologies Used
+
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla JS)  
+- AI tools (used for ideas and refining certain parts)
+
+---
+
+## What I Learned
+
+From this project, I learned:
+
+- How to work in a team on a front-end project  
+- Dividing tasks and combining different parts into one system  
+- Improving UI/UX using animations  
+- Using JavaScript for interactivity  
+- How to use AI tools properly without relying on them completely  
+
+---
+
+## Challenges
+
+Some challenges we faced:
+
+- Keeping the design consistent across different team members  
+- Making sure animations were smooth and not too heavy  
+- Merging code from different people  
+- Debugging issues that came up during integration  
+
+---
+
+## Future Improvements
+
+If we continue working on this project, we would:
+
+- Improve animation performance  
+- Add more interactivity  
+- Expand the content  
+- Possibly add backend functionality in future  
+
+---
+
+## Author
+
+Nomcebo Mtshali  
+---
+
+## 📌 Notes
+
+This project is part of my portfolio to show both my technical skills and my ability to work in a team and use tools like AI to improve the final result.
 
 💼 Built as part of an Innovation & Leadership project
